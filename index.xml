@@ -5,7 +5,7 @@
         <link>https://xub1997.github.io/</link>
         <description>Recent content on xub Blog</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language>
+        <language>en-us</language>
         <lastBuildDate>Wed, 25 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://xub1997.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>My First Blog</title>
         <link>https://xub1997.github.io/p/my-first-blog/</link>
@@ -17,7 +17,7 @@
 </description>
         </item>
         <item>
-        <title>Archives</title>
+        <title>归档</title>
         <link>https://xub1997.github.io/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
@@ -25,21 +25,165 @@
         <description></description>
         </item>
         <item>
-        <title>Search</title>
+        <title>个人简历</title>
+        <link>https://xub1997.github.io/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://xub1997.github.io/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/</guid>
+        <description>&lt;h1 id=&#34;黎清许---后端工程师---java&#34;&gt;黎清许 - 后端工程师 - Java&lt;/h1&gt;
+&lt;h2 id=&#34;个人信息&#34;&gt;个人信息&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;姓名：黎清许&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;性别：男&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;出生年月：1997.1&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;政治面貌：&lt;strong&gt;中共党员&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;手机：13631360645&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Email：xubliqingxu@163.com&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;微信号：(可搜索手机号)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;工作年限：&lt;strong&gt;3年&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;期望职位：Java开发&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;期望城市：&lt;strong&gt;广州&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;教育背景&#34;&gt;教育背景&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;广州航海学院 - 计算机科学与技术(2015.9-2019.7)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;英语四级证书&lt;/li&gt;
+&lt;li&gt;参与的项目“基于北斗三代的无人船通导与控制系统的研究”立项为“广东省攀登计划”预备项目，并在学校“第一届青春起航双创节”活动中获得二等奖&lt;/li&gt;
+&lt;li&gt;计算机软考中级证书&lt;/li&gt;
+&lt;li&gt;软件著作权三篇（T360-269B行车记录仪软件、GNSS综合运营系统（简称：运营平台）、GNSS综合监控服
+务端软件）&lt;/li&gt;
+&lt;li&gt;发明专利一篇（一种基于TR-Min-Min算法的城市智能交通处理系统及方法）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;技能&#34;&gt;技能&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Java基础&lt;/strong&gt;：熟悉Java基础知识，熟悉多线程并发，熟悉JVM原理&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;数据库&lt;/strong&gt;：熟悉使用MySQL、Oracle、SQL SERVER等关系型数据库及常见的优化手段;熟练使用Redis&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;框架&lt;/strong&gt;：熟悉Spring Boot、SpringCloud、MyBatis、Shiro、Structs2、Hibernate等主流开发框架&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;开源组件&lt;/strong&gt;：熟悉定时调度xxl-job、离线采集引擎DataX、调度引擎DolphinScheduler的使用和原理。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;设计模式&lt;/strong&gt;：熟悉常见的设计模型并应用于实际项目，如：工厂模式、单例模式、策略模式、装饰器模式、命令模式、责任链模式、原型模式、建造者模式等&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;工具&lt;/strong&gt;：熟悉IDEA、Eclipse、Git、SVN、Maven等项目管理及构建工具，了解Docker，了解Linux常用命令，了解Git+Jenkins+K8s的自动化CI/CD流程工具&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;前端开发&lt;/strong&gt;：掌握HTML、CSS、JavaScript、Ajax、JQuery等web前端技术，对Vue框架也有涉足&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;其他&lt;/strong&gt;：了解大数据相关的知识，熟练使用UML&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;工作经历&#34;&gt;工作经历&lt;/h2&gt;
+&lt;h3 id=&#34;北明科技有限公司&#34;&gt;&lt;strong&gt;北明科技有限公司&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;基础平台开发部 - Java开发工程师 &lt;strong&gt;(2020.10 - 至今)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;项目数据中台&#34;&gt;项目：数据中台&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;Spring Boot&lt;/code&gt; &lt;code&gt;Spring Cloud&lt;/code&gt; &lt;code&gt;MySQL&lt;/code&gt; &lt;code&gt;Redis&lt;/code&gt; &lt;code&gt;Datax&lt;/code&gt; &lt;code&gt;DolphinScheduler&lt;/code&gt; &lt;code&gt;Jenkins&lt;/code&gt; &lt;code&gt;Docker&lt;/code&gt; &lt;code&gt;K8s&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;项目描述&lt;/strong&gt;
+数据中台由数据数据汇聚、数据开发、数据治理、数据服务、资产运营、交易平台、管理中心七大平台构成，使用Spring Cloud技术进行搭建，并通过git+Jenkins+Kubenertes实现容器管理、自动化部署功能。中台基于多种引擎封装实现多种异构数据源的采集、清洗、转换、写入内部数仓，并提供可视化任务配置、丰富的监控管理功能。采集回来的数据通过数据编目、绑定数据标准、配置质量作业、血缘分析等方面进行业务和技术治理，形成数据资产；提供数据资产服务化的能力，将资产进行变现&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;工作内容&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;利用Druid解析SQL，生成AST树，遍历得到数据血缘信息，并通过比对关联血缘信息，生成血缘版本信息&lt;/li&gt;
+&lt;li&gt;使用深度遍历算法，查询血缘以及判断是否存在环路、找出图中的所有环&lt;/li&gt;
+&lt;li&gt;负责安全模块敏感数据识别、脱敏规则、加密算法SDK开发、应用文档的编写&lt;/li&gt;
+&lt;li&gt;数据集市模块中资产管理（资产发布、资产下线、资产文件运行信息处理）&lt;/li&gt;
+&lt;li&gt;与技术专家对接搭建kubenertes集群交付项目，解决日常中kubenertes 出错问题&lt;/li&gt;
+&lt;li&gt;开发文档输出，跟踪禅道解决测试提出的相应bug 问题，参与产品的技术开发，并进行同行产品调研&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;拓维云创&#34;&gt;&lt;strong&gt;拓维云创&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;业务平台部 - Java开发工程师 &lt;strong&gt;(2020.3 - 2020.9)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;项目集中运营平台中国移动&#34;&gt;项目：集中运营平台（中国移动）&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;Hadoop&lt;/code&gt; &lt;code&gt;Spark&lt;/code&gt; &lt;code&gt;Kafka&lt;/code&gt; &lt;code&gt;Shell&lt;/code&gt; &lt;code&gt;Mybatis&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;项目描述&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;中国移动集中运营平台即IOP系统，采用“三库一中心”的展现架构，通过整合现有系统资源和能力扩展打造六大功能，形成统一入口、全业务、全流程、全触点的运营支撑平台。具有事件实施触发、标签动态更新、效果实时评估、渠道多点触发的大数据营销能力&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;工作内容&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;对原有的入库流程进行了日志记录，并把操作日志记录到Mysql数据库中方便数据追踪，提高了问题排查的速度&lt;/li&gt;
+&lt;li&gt;主动跟渠道对接，把活动推送文件反馈接口的反馈级别由文件级别提高到策略界别，提高了接口的效率，方便了文件推送情况问题的排查工作&lt;/li&gt;
+&lt;li&gt;主动针对Kafka消息推送存在数据没有下发的问题，开发出shell脚本，每日定时对Kafka事件进行排查&lt;/li&gt;
+&lt;li&gt;利用Spark对事件执行日志进行统计，排查事件未执行原因&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;广州市道一信息技术有限公司&#34;&gt;&lt;strong&gt;广州市道一信息技术有限公司&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;业务三部 - Java开发工程师 &lt;strong&gt;(2019.7 - 2020.1)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;项目贸易项目-移动应用海大集团&#34;&gt;项目：贸易项目-移动应用（海大集团）&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;Spring Boot&lt;/code&gt; &lt;code&gt;Spring Cloud&lt;/code&gt; &lt;code&gt;MySQL&lt;/code&gt; &lt;code&gt;Redis&lt;/code&gt; &lt;code&gt;Apache POI&lt;/code&gt; &lt;code&gt;Mybatis&lt;/code&gt; &lt;code&gt;Shiro&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;项目描述&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;海大移动贸易项目主要为方便业务人员进行移动端办公，在基于原有SAP系统的基础上增加移动端功能。业务人员可以在手机上进行业务单提交、审批以及查询等操作，提交审批时会通知对应的审批人进行审批操作&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;工作内容&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;使用Apache POI导出业务单数据&lt;/li&gt;
+&lt;li&gt;为适应多种业务单的业务，采用策略模式+工厂模式，对业务单的操作进行统一管理，优化了代码结构，方便日后维护&lt;/li&gt;
+&lt;li&gt;针对部分查询速度较慢的SQL进行优化，提高页面渲染速度&lt;/li&gt;
+&lt;li&gt;基于AOP+Redis实现重复提交处理，防止因为页面延迟响应或用户误操作导致的数据重复提交问题&lt;/li&gt;
+&lt;li&gt;调用企微和微信通知接口，通知对应审批人进行审批&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;项目空中问诊友邦广东&#34;&gt;项目：空中问诊（友邦广东）&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;Struct2&lt;/code&gt; &lt;code&gt;Spring&lt;/code&gt; &lt;code&gt;JSP&lt;/code&gt; &lt;code&gt;Redis&lt;/code&gt; &lt;code&gt;Apache POI&lt;/code&gt; &lt;code&gt;Memched&lt;/code&gt; &lt;code&gt;Shiro&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;项目描述&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;友邦广东因业务需要由营销员在PC端导入潜在客户，并为其进行预约操作，安排相应的医生。医生接受预约申请后，客户可在小程序或PC端跟医生进行视频语音交谈。医生根据客户的回答，生成报表并提交客户确认。客户确认后，问诊完毕。为方便其他分公司进行接入使用，把企业配置信息统一进行管理&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;工作内容&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;负责资格名单、客户预约、多企业配置的CRUD、页面展示&lt;/li&gt;
+&lt;li&gt;利用Apache POI实现数据导入、导出模块&lt;/li&gt;
+&lt;li&gt;部署测试环境，测试系统代码后，打包相应发布包&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;个人评价&#34;&gt;个人评价&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;对工作认真负责，有较强的责任心，有较好的心理素质和抗压能力，有良好的团队合作意识&lt;/li&gt;
+&lt;li&gt;性格开朗，容易相处，与同事交往融洽，乐于与同事以及领导分享、交流、沟通，以便互相学习进步、处理工作中遇到的问题&lt;/li&gt;
+&lt;li&gt;热爱技术分享以及关注新技术，具有geek精神&lt;/li&gt;
+&lt;li&gt;有较好的编码习惯，及一定程度的代码洁癖，会对代码进行梳理及重构&lt;/li&gt;
+&lt;li&gt;注重不断学习，平时工作之余，会经常逛开源社区，看论坛文章。平时有做笔记的习惯，对自己的知识和学习所得有归纳总结的习惯。勤于思考，自我反省，自我完善&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;致谢&#34;&gt;致谢&lt;/h2&gt;
+&lt;p&gt;感谢您花时间阅读我的简历，期待能有机会和您共事。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜索</title>
         <link>https://xub1997.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://xub1997.github.io/search/</guid>
         <description></description>
-        </item>
-        <item>
-        <title>关于</title>
-        <link>https://xub1997.github.io/%E5%85%B3%E4%BA%8E/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://xub1997.github.io/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;h1 id=&#34;鄙人&#34;&gt;鄙人&lt;/h1&gt;
-</description>
         </item>
         
     </channel>

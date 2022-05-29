@@ -21,10 +21,10 @@
     <loc>https://xub1997.github.io/post/</loc>
     <lastmod>2022-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xub1997.github.io/archives/</loc>
+    <loc>https://xub1997.github.io/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xub1997.github.io/page/</loc>
+    <loc>https://xub1997.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://xub1997.github.io/categories/</loc>
@@ -39,8 +39,6 @@
                 href="https://xub1997.github.io/categories/"
                 />
   </url><url>
-    <loc>https://xub1997.github.io/search/</loc>
-  </url><url>
     <loc>https://xub1997.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -53,6 +51,8 @@
                 href="https://xub1997.github.io/tags/"
                 />
   </url><url>
-    <loc>https://xub1997.github.io/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://xub1997.github.io/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/</loc>
+  </url><url>
+    <loc>https://xub1997.github.io/search/</loc>
   </url>
 </urlset>
